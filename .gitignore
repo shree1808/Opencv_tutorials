@@ -1,5 +1,5 @@
 # Ignore all jpg images
-*.jng
+*.jpg
 
 # Ignore all png images
 *.png
