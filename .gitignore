@@ -1,1 +1,5 @@
-shree_img.png
+# Ignore all jpg images
+*.jng
+
+# Ignore all png images
+*.png
